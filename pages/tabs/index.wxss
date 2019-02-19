@@ -12,7 +12,6 @@
 	transform-origin: 0 100%;
 	transform: scaleY(0.5);
 }
-
 .content {
 	display: flex;
     align-items: center;

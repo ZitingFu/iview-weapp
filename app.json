@@ -1,6 +1,8 @@
 {
     "pages": [
         "pages/index/index",
+        "pages/tabs/index",
+        "pages/fab-button/index",
         "pages/about/index",
         "pages/accordion/index",
         "pages/actionsheet/index",
@@ -20,7 +22,6 @@
         "pages/countup/index",
         "pages/divider/index",
         "pages/dialog/index",
-        "pages/fab-button/index",
         "pages/filterbar/index",
         "pages/gallery/index",
         "pages/grid/index",
@@ -61,7 +62,6 @@
         "pages/swipe-action/index",
         "pages/switch/index",
         "pages/tabbar/index",
-        "pages/tabs/index",
         "pages/tag/index",
         "pages/textarea/index",
         "pages/timeago/index",

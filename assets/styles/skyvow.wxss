@@ -11,7 +11,6 @@ page{
 	-webkit-text-size-adjust: 100%;
 	-webkit-tap-highlight-color: transparent;
 }
-
 .page__hd {
     padding: 40px;
 }

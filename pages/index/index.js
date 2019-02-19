@@ -5,22 +5,22 @@ Page({
                 children: [{
                         title: 'AnimationGroup',
                         remark: '动画组',
-                        url: '/pages/animation-group/index',
+                        url: '/pages/assembly/animation-group/index',
                     },
                     {
                         title: 'Button',
                         remark: '按钮',
-                        url: '/pages/button/index',
+                        url: '/pages/assembly/button/index',
                     },
                     {
                         title: 'Icon',
                         remark: '图标',
-                        url: '/pages/icon/index',
+                        url: '/pages/assembly/icon/index',
                     },
                     {
                         title: 'Utility',
                         remark: '工具类',
-                        url: '/pages/utility/index',
+                        url: '/pages/assembly/utility/index',
                     },
                 ],
             },
